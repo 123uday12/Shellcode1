@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "hii hw ru"
-#end
-#this program is 1st
